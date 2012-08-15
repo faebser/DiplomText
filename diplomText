@@ -43,4 +43,10 @@ Unser zweites Treffen bestand darin, das wir uns den Film "Indie Game: The Movie
 Ausserdem Veranstaltungen
 gamespace muss da rein
 Kooperationen
-Auf der Suche nach einem Partner, der mir bei der Gestaltung der Geräuschlandschaft meines Experiments behilflich sein kann, habe ich mich an Heike Sperling, Professorin am Institut für Musik und Medien in Düsseldorf und Gastdozentin am Hyperwerk, gewandt.
+Auf der Suche nach einem Partner, der mir bei der Gestaltung der Geräuschlandschaft meines Experiments behilflich sein kann, habe ich mich an Heike Sperling, Professorin am Institut für Musik und Medien in Düsseldorf und Gastdozentin am Hyperwerk, gewandt. Meine Anfrage wurde von Ihr an die Studenten weitergeleitet worauf ich innert Stunden eine grosse Anzahl an Rückmeldungen von interessierten Studenten erhielt. Nach Rücksprache mit Heike habe ich mich für Lukas Truniger (http://bit.ly/PZvzBp), Student am IMM im 8. Semester, entschieden. DIe Zusammenarbeit mit ihm läuft über Plattformen wie GitHub und Dropbox, kommunziert wird via Skype und Email. Er hat in Rücksprache mit mir ein Konzept für die Geräusche der Planeten entwickelt, dass ich anschliessend in Code übersetzt und in mein Fragment integriert habe.
+praktische Umsetzung
+Zu Beginn meines Diploms habe ich mit Fragmenten, also eng umrissene Experimente, die einzelne Konzepte/Ideen die ich während meiner Recherche entwickelt habe, darlegen.
+Ich habe für alle Projekte OpenFrameworks(http://bitly.com/PHJwDJ) benutzt. OpenFrameworks ist eine Sammlung von gängigen Funktionen für Multimedia-Applikationen wie das Zeichnen von 2- und 3D Grafiken, Netzwerkkommunikation, Maus- und Tastatursteuerung für die Programmiersprache C++. Gepflegt wird dieses Open-Source Projekt von einer internationalen Gemeinschaft von Programmierer.
+Für das OpenHouse im Januar 2012, Tag der offenen Tür im HyperWerk, habe ich ein solches Fragment entworfen und programmiert. Das Ziel war eine isometrisch dargestellte generative Landschaft für ein Shoot ’em up zu kreieren. 
+"Ein typischer Level in einem Shoot ’em up besteht aus einem vorgegebenen, vorbeiscrollenden Hintergrund und einer vorgegeben Anzahl an unterschiedlichen Formationen von Gegnern." (http://bit.ly/Nnnmbk)
+Diese vorbeiscrollenden Hintergrund soll aus geometrischen Körpern aufgebaut sein, die der Form von Basaltprismen nachempfunden sind.
